@@ -1,4 +1,5 @@
 # AirsoftMeeting API
+**Creation date: 2022-02-01**
 
 My first attempt to make GraphQL API for Airsoft Meeting. Right now it has been replaced with different implementation and technologies so I can freely share this approach.
 
